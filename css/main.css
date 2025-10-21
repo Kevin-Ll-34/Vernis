@@ -90,6 +90,9 @@ nav a:hover {
         border: 3px solid white;
         min-height: 350px;
 }
+.tabla{
+    overflow: hidden;
+}
 .doctor-photo2 {
         background-image: url('../img/doctor\ 1.jpg');
         background-size: cover;
